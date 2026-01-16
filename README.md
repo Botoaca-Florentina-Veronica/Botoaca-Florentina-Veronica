@@ -6,7 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue?style=for-the-badge)](https://vera-botoaca.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/💼-LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/florentina-veronica-bo%C8%9Boac%C4%83-376374260/)
-[![Hobbiz](https://img.shields.io/badge/🧩-Hobbiz-0A66C2?style=for-the-badge)](https://hobbiz.netlify.app/)
+[![Hobbiz](https://img.shields.io/badge/🧩-Hobbiz-0A66C2?style=for-the-badge)](https://hobbiz.ro/)
 
 </div>
 
